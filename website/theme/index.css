@@ -1,0 +1,7 @@
+/* Doc page images: constrain width and add subtle styling */
+.rp-doc img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}

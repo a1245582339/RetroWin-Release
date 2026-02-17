@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "screenshots",
+    "label": "截图展示"
+  },
+  {
+    "type": "file",
+    "name": "installation",
+    "label": "安装指南"
+  },
+  {
+    "type": "file",
+    "name": "contact",
+    "label": "联系我们"
+  }
+]

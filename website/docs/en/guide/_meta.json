@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "screenshots",
+    "label": "Screenshots"
+  },
+  {
+    "type": "file",
+    "name": "installation",
+    "label": "Installation"
+  },
+  {
+    "type": "file",
+    "name": "contact",
+    "label": "Contact"
+  }
+]
