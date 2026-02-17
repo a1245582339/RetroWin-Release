@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<!-- APP_LOGO_URL -->" alt="RetroWin" width="128" />
+<img src="https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp" alt="RetroWin" width="128" />
 
 # RetroWin
 
@@ -9,7 +9,10 @@
 A retro-style taskbar app for macOS that recreates the look and feel of Windows 98, Windows XP, and Windows 7.
 
 [![GitHub release](https://img.shields.io/github/v/release/a1245582339/RetroWin-Release)](https://github.com/a1245582339/RetroWin-Release/releases)
+
 [![macOS](https://img.shields.io/badge/macOS-15.0%2B-black)](https://www.apple.com/macos/)
+
+English | [简体中文](./README_CN.md)
 
 </div>
 
@@ -17,19 +20,22 @@ A retro-style taskbar app for macOS that recreates the look and feel of Windows 
 
 ### Windows 98 Theme
 
-<!-- SCREENSHOT_WIN98 -->
+![98bar](https://github.com/a1245582339/picx-images-hosting/raw/master/98bar.lw9claato.webp)
+
+![98menu](https://github.com/a1245582339/picx-images-hosting/raw/master/98menu.4n88qzee6k.webp)
 
 ### Windows XP Theme
 
-<!-- SCREENSHOT_WINXP -->
+![xpbar](https://github.com/a1245582339/picx-images-hosting/raw/master/xpbar.99tvrocxu7.webp)
+
+![xpmenu](https://github.com/a1245582339/picx-images-hosting/raw/master/xp-menu.2yyvtso40f.webp)
 
 ### Windows 7 Theme
 
-<!-- SCREENSHOT_WIN7 -->
+![7bar](https://github.com/a1245582339/picx-images-hosting/raw/master/98bar.lw9claato.webp)
 
-### Start Menu
+![7menu](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
-<!-- SCREENSHOT_START_MENU -->
 
 ## Features
 
@@ -44,6 +50,15 @@ A retro-style taskbar app for macOS that recreates the look and feel of Windows 
 - **Scaling** — 50% to 200% taskbar scaling for any display
 - **Multi-Language** — English, 简体中文, 繁體中文, 日本語, 한국어, Français
 
+![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings1.8s3u33bk99.webp)
+
+![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings2.58hwda8uh9.webp)
+![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings.4n88qzee6m.webp)
+![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Taskbar-settings.6f17lvxr2l.webp)
+![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Tray-settings.6t7ncr61xq.webp)
+
+
+
 ## Installation
 
 1. Go to the [Releases page](https://github.com/a1245582339/RetroWin-Release/releases)
@@ -53,9 +68,24 @@ A retro-style taskbar app for macOS that recreates the look and feel of Windows 
 
 Requires macOS 15.0 or later, Apple Silicon or Intel.
 
-## Feedback
+## Contact
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/a1245582339/RetroWin-Release/issues).
+If you have any questions, suggestions, or need support, feel free to reach out:
+
+- **GitHub Issues**: [Submit feedback](https://github.com/a1245582339/RetroWin-Release/issues)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/a1245582339/picx-images-hosting/raw/master/feishu.3yez72bz49.webp" width="200" /><br/>
+      <b>Feishu Group</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/a1245582339/picx-images-hosting/raw/master/wechat-qrcode.et1h9a0ox.webp" width="200" /><br/>
+      <b>WeChat</b>
+    </td>
+  </tr>
+</table>
 
 ## License
 
