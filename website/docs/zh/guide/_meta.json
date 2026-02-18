@@ -11,6 +11,11 @@
   },
   {
     "type": "file",
+    "name": "faq",
+    "label": "常见问题"
+  },
+  {
+    "type": "file",
     "name": "contact",
     "label": "联系我们"
   }

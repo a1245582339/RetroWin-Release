@@ -68,6 +68,58 @@ English | [简体中文](./README_CN.md)
 
 Requires macOS 15.0 or later, Apple Silicon or Intel.
 
+## FAQ
+
+<!-- FAQ_EN_START -->
+**Q: Why can't RetroWin detect some app windows?**
+
+A: RetroWin needs Accessibility permission to track windows. Go to **System Settings → Privacy & Security → Accessibility** and make sure RetroWin is enabled.
+
+**Q: macOS says the app is damaged or can't be opened.**
+
+A: Since RetroWin is not distributed through the App Store, macOS Gatekeeper may block it. Go to **System Settings → Privacy & Security**, find the RetroWin prompt, and click **Open Anyway**. Alternatively, run the following command in Terminal:
+
+```bash
+xattr -cr /Applications/RetroWin.app
+```
+
+**Q: Can I use RetroWin alongside the native macOS Dock?**
+
+A: Yes. RetroWin runs independently and does not replace or modify the Dock. You can use both at the same time, or hide the Dock via **System Settings → Desktop & Dock → Automatically hide and show the Dock**.
+
+**Q: Does RetroWin affect system performance?**
+
+A: RetroWin is lightweight and uses minimal CPU and memory. Window tracking polls once per second and has negligible impact on performance.
+
+**Q: How do I switch themes?**
+
+A: Right-click the Start button and select **Settings**, or click **Settings** in the Start Menu. Go to the **Theme** tab to switch between Windows 98, Windows XP, and Windows 7.
+
+**Q: Does it support multiple monitors?**
+
+A: Yes. You can enable or disable the taskbar on each monitor independently in **Settings → General**.
+
+**Q: How do I pin an app to the taskbar?**
+
+A: Right-click on any running app's taskbar button and select **Pin to Taskbar**. Pinned apps remain on the taskbar even when closed, and you can drag to reorder them.
+
+**Q: Can I make the taskbar auto-hide?**
+
+A: Yes. Enable **Auto-Hide** in **Settings → Taskbar**. The taskbar will slide off-screen and reappear when you move your mouse to the bottom edge.
+
+**Q: Why does an app still appear on the taskbar after I closed its window?**
+
+A: On macOS, clicking the red close button (×) only closes the window — it does not quit the app. The app continues running in the background, which is why it still shows on the taskbar. If you want the app to disappear from the taskbar after closing its window, you have two options:
+
+- Go to **RetroWin Settings → Taskbar** and enable **Follow Window** for that app.
+- Right-click the app on the taskbar and select **Close** to fully quit it.
+
+**Q: Which macOS versions are supported?**
+
+A: RetroWin requires macOS 15.0 (Sequoia) or later, and supports both Apple Silicon and Intel Macs.
+
+<!-- FAQ_EN_END -->
+
 ## Contact
 
 If you have any questions, suggestions, or need support, feel free to reach out:
