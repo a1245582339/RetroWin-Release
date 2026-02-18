@@ -8,9 +8,6 @@ hero:
     - theme: brand
       text: Download
       link: https://github.com/a1245582339/RetroWin-Release/releases
-    - theme: alt
-      text: GitHub
-      link: https://github.com/a1245582339/RetroWin-Release
   image:
     src: https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp
     alt: RetroWin
