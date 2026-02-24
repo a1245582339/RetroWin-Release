@@ -6,13 +6,13 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.5</title>
-            <sparkle:version>1.1.5</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
-            <pubDate>Tue, 24 Feb 2026 06:48:50 +0000</pubDate>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.1.5/RetroWin-1.1.5.zip"
-                       sparkle:edSignature="l7iIswB3Xn5NUTmLkrDQ2yp1gSxGQCBlJzu1KhLmRDNwBvdzgQb/sLBRBxLdXlZgQESPBadw5+aMDemDU6k5Cg=="
-                       length="6083564"
+            <title>Version 1.1.6</title>
+            <sparkle:version>1.1.6</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <pubDate>Tue, 24 Feb 2026 06:56:34 +0000</pubDate>
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.1.6/RetroWin-1.1.6.zip"
+                       sparkle:edSignature="H0P7iViDJ1HjoNkpTqh53EfBQG9fffEentpCmwY+mj41GQCugz6TTSKFhKSc72Dcrzr/xqB1xfVF8phO4RE5CA=="
+                       length="6083560"
                        type="application/octet-stream"/>
         </item>
     </channel>
