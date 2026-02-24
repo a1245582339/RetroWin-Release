@@ -26,12 +26,12 @@
 
 ## Settings
 
-![General Settings 1](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings1.8s3u33bk99.webp)
+![General Settings 1](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150321_596.8s3ud2crc4.webp)
 
-![General Settings 2](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings2.58hwda8uh9.webp)
+![General Settings 2](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150430_901.51eortnw4l.webp)
 
-![Theme Settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings.4n88qzee6m.webp)
+![Theme Settings](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150510_120.3ns5nscu3q.webp)
 
-![Taskbar Settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Taskbar-settings.6f17lvxr2l.webp)
+![Taskbar Settings](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150516_368.1hsr20l6cn.webp)
 
-![Tray Settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Tray-settings.6t7ncr61xq.webp)
+![Tray Settings](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150521_624.4g515itfu0.webp)
