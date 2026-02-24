@@ -122,9 +122,14 @@ A: On macOS, clicking the red close button (×) only closes the window — it do
 - Go to **RetroWin Settings → Taskbar** and enable **Follow Window** for that app.
 - Right-click the app on the taskbar and select **Close** to fully quit it.
 
-**Q: Why are taskbar window titles not showing after updating to a new version?**
+**Q: Why do I need to re-grant Accessibility permission after every update?**
 
-A: After updating RetroWin, macOS may revoke the Accessibility permission. To fix this, go to **System Settings → Privacy & Security → Accessibility**, select RetroWin in the list, click the **"-"** button to remove it, then relaunch RetroWin. A system prompt will appear asking you to grant Accessibility permission again — allow it and everything will work as before.
+A: macOS ties Accessibility permission to the app's code signature. Since RetroWin is not signed with an Apple Developer certificate, each update produces a different signature, and macOS treats it as a new app. To fix this after updating:
+
+1. Go to **System Settings → Privacy & Security → Accessibility**
+2. Select RetroWin in the list, click the **"−"** button to remove it
+3. Relaunch RetroWin
+4. A system prompt will appear — click **Allow** to re-grant permission
 
 **Q: Which macOS versions are supported?**
 
