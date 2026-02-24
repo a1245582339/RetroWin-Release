@@ -6,6 +6,11 @@
   },
   {
     "type": "file",
+    "name": "wallpapers",
+    "label": "经典壁纸"
+  },
+  {
+    "type": "file",
     "name": "installation",
     "label": "安装指南"
   },

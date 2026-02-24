@@ -6,6 +6,11 @@
   },
   {
     "type": "file",
+    "name": "wallpapers",
+    "label": "Wallpapers"
+  },
+  {
+    "type": "file",
     "name": "installation",
     "label": "Installation"
   },

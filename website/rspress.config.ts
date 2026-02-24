@@ -39,6 +39,7 @@ export default defineConfig({
         nextPageText: 'Next',
         nav: [
           { text: 'Screenshots', link: '/en/guide/screenshots' },
+          { text: 'Wallpapers', link: '/en/guide/wallpapers' },
           { text: 'Installation', link: '/en/guide/installation' },
           { text: 'FAQ', link: '/en/guide/faq' },
           { text: 'Contact', link: '/en/guide/contact' },
@@ -52,6 +53,7 @@ export default defineConfig({
         nextPageText: '下一页',
         nav: [
           { text: '截图展示', link: '/zh/guide/screenshots' },
+          { text: '经典壁纸', link: '/zh/guide/wallpapers' },
           { text: '安装指南', link: '/zh/guide/installation' },
           { text: '常见问题', link: '/zh/guide/faq' },
           { text: '联系我们', link: '/zh/guide/contact' },
