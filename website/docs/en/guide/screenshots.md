@@ -18,6 +18,12 @@
 
 ![7 Start Menu](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
+## Windows 10 Theme
+
+![10 Taskbar](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144429_819.5q7ybtkxz9.webp)
+
+![10 Start Menu](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144447_291.6f17vu8gzq.webp)
+
 ## Settings
 
 ![General Settings 1](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings1.8s3u33bk99.webp)

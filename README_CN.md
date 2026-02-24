@@ -6,7 +6,7 @@
 
 **在 macOS 上重现经典 Windows 任务栏。**
 
-一款复古风格的 macOS 任务栏应用，完美重现 Windows 98、Windows XP 和 Windows 7 的经典外观与体验。
+一款复古风格的 macOS 任务栏应用，完美重现 Windows 98、Windows XP、Windows 7 和 Windows 10 的经典外观与体验。
 
 [![GitHub release](https://img.shields.io/github/v/release/a1245582339/RetroWin-Release)](https://github.com/a1245582339/RetroWin-Release/releases)
 
@@ -36,18 +36,26 @@
 
 ![7menu](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
+### Windows 10 主题
+
+![10bar](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144429_819.5q7ybtkxz9.webp)
+
+![10menu](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144447_291.6f17vu8gzq.webp)
+
 
 ## 功能特性
 
-- **多主题切换** — Windows 98、Windows XP、Windows 7，像素级还原经典 UI 细节
+- **多主题切换** — Windows 98、Windows XP、Windows 7、Windows 10，像素级还原经典 UI 细节
 - **多显示器支持** — 每个屏幕独立任务栏，可自由配置
-- **窗口管理** — 实时追踪应用状态，支持激活、最小化、合并/展开模式
+- **窗口管理** — 实时追踪应用状态，支持激活、最小化、合并/展开模式，悬浮预览窗口
 - **任务栏固定** — 将应用固定到任务栏，支持拖拽排序，关闭后仍保留
-- **开始菜单** — 经典布局，支持固定程序和快速访问系统功能
-- **系统托盘** — 输入法、音量控制、时钟及自定义应用图标
+- **开始菜单** — 各主题专属布局，支持固定程序、搜索及快速访问系统功能
+- **系统托盘** — 输入法指示器、音量控制、时钟及自定义应用托盘图标
+- **电源菜单** — 睡眠、重启、关机、锁屏、注销，配合主题风格的对话框
 - **通知提醒** — 检测应用角标和横幅通知，橙色闪烁提示
 - **自动隐藏** — 任务栏自动隐藏到屏幕边缘，鼠标悬停时显示
 - **缩放调节** — 支持 50% 到 200% 的任务栏缩放
+- **自动更新** — 内置 Sparkle 更新检查，支持后台自动检查和手动检查
 - **多语言** — English、简体中文、繁體中文、日本語、한국어、Français
 
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings1.8s3u33bk99.webp)
@@ -93,7 +101,7 @@ A： RetroWin 非常轻量，CPU 和内存占用极低。窗口追踪每秒轮�
 
 **Q： 如何切换主题？**
 
-A： 右键点击开始按钮选择 **设置**，或在开始菜单中点击 **设置**，进入 **主题** 标签页即可在 Windows 98、Windows XP 和 Windows 7 之间切换。
+A： 右键点击开始按钮选择 **设置**，或在开始菜单中点击 **设置**，进入 **主题** 标签页即可在 Windows 98、Windows XP、Windows 7 和 Windows 10 之间切换。
 
 **Q： 支持多显示器吗？**
 

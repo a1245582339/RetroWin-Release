@@ -6,7 +6,7 @@
 
 **Bring the classic Windows taskbar to macOS.**
 
-A retro-style taskbar app for macOS that recreates the look and feel of Windows 98, Windows XP, and Windows 7.
+A retro-style taskbar app for macOS that recreates the look and feel of Windows 98, Windows XP, Windows 7, and Windows 10.
 
 [![GitHub release](https://img.shields.io/github/v/release/a1245582339/RetroWin-Release)](https://github.com/a1245582339/RetroWin-Release/releases)
 
@@ -36,18 +36,26 @@ English | [简体中文](./README_CN.md)
 
 ![7menu](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
+### Windows 10 Theme
+
+![10bar](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144429_819.5q7ybtkxz9.webp)
+
+![10menu](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144447_291.6f17vu8gzq.webp)
+
 
 ## Features
 
-- **Multiple Themes** — Windows 98, Windows XP, and Windows 7, with pixel-perfect classic UI details
+- **Multiple Themes** — Windows 98, Windows XP, Windows 7, and Windows 10, with pixel-perfect classic UI details
 - **Multi-Monitor Support** — Independent taskbar on each display, freely configurable
-- **Window Management** — Real-time app tracking, activation, minimization, merge/expand modes
+- **Window Management** — Real-time app tracking, activation, minimization, merge/expand modes, window preview on hover
 - **Taskbar Pinning** — Pin apps to the taskbar, drag to reorder, persistent even when closed
-- **Start Menu** — Classic layout with pinnable programs and quick access to system functions
-- **System Tray** — Input method, volume control, clock, and custom app icons
+- **Start Menu** — Theme-specific layouts with pinnable programs, search, and quick access to system functions
+- **System Tray** — Input method indicator, volume control, clock, and custom app tray icons
+- **Power Menu** — Sleep, Restart, Shut Down, Lock Screen, and Log Off with theme-matching dialogs
 - **Notification Alerts** — Badge and banner detection with orange flashing indicators
 - **Auto-Hide** — Taskbar hides to screen edge, appears on hover
 - **Scaling** — 50% to 200% taskbar scaling for any display
+- **Auto-Update** — Built-in update checking via Sparkle, with background and manual check options
 - **Multi-Language** — English, 简体中文, 繁體中文, 日本語, 한국어, Français
 
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings1.8s3u33bk99.webp)
@@ -93,7 +101,7 @@ A: RetroWin is lightweight and uses minimal CPU and memory. Window tracking poll
 
 **Q: How do I switch themes?**
 
-A: Right-click the Start button and select **Settings**, or click **Settings** in the Start Menu. Go to the **Theme** tab to switch between Windows 98, Windows XP, and Windows 7.
+A: Right-click the Start button and select **Settings**, or click **Settings** in the Start Menu. Go to the **Theme** tab to switch between Windows 98, Windows XP, Windows 7, and Windows 10.
 
 **Q: Does it support multiple monitors?**
 
