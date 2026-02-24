@@ -6,13 +6,31 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.8</title>
-            <sparkle:version>1.1.8</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
-            <pubDate>Tue, 24 Feb 2026 08:01:41 +0000</pubDate>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.1.8/RetroWin-1.1.8.zip"
-                       sparkle:edSignature="7ppYxcdrQTwGkweVSk89MAbGjDbqe8H3N0I863pRp9TAEFhe9vVe8mKvm3dCCeqRu2iSLxq19IogWCXw7YP6DQ=="
-                       length="6098868"
+            <title>Version 1.1.9</title>
+            <sparkle:version>1.1.9</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <pubDate>Tue, 24 Feb 2026 08:10:02 +0000</pubDate>
+            <description><![CDATA[
+<style>
+body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
+.warning { background: #FFF3CD; border: 1px solid #FFECB5; border-radius: 6px; padding: 10px 12px; margin: 8px 0; }
+.warning-title { font-weight: 600; margin-bottom: 6px; color: #664D03; }
+.warning p { margin: 4px 0; color: #664D03; font-size: 12px; }
+.steps { padding-left: 18px; }
+.steps li { margin: 3px 0; }
+</style>
+<div class="warning">
+  <div class="warning-title">⚠️ 辅助功能权限 / Accessibility Permission</div>
+  <p><b>安装前</b>请前往 系统设置 → 隐私与安全性 → 辅助功能，选中 RetroWin，点击 <b>−</b> 移除。</p>
+  <p><b>安装后</b>重新打开 RetroWin，在辅助功能中重新添加并启用开关。</p>
+  <hr style="border:none;border-top:1px solid #FFECB5;margin:8px 0;">
+  <p><b>Before installing</b>, go to System Settings → Privacy & Security → Accessibility, select RetroWin, click <b>−</b> to remove it.</p>
+  <p><b>After installing</b>, reopen RetroWin and re-add it in Accessibility settings.</p>
+</div>
+]]></description>
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.1.9/RetroWin-1.1.9.zip"
+                       sparkle:edSignature="RfntG895LyH4KYaT6bZ6Kf3B8pq4iW2PSzkS0WHCC3VCieZrS7LB+y7aWetDa69xFrtD39v2K57RWcZpcrz6Bg=="
+                       length="6098869"
                        type="application/octet-stream"/>
         </item>
     </channel>
