@@ -2,6 +2,12 @@
 
 如果你有任何问题、建议或需要帮助，欢迎通过以下方式联系：
 
+## 邮箱
+
+📧 **zhipeng.0216@qq.com**
+
+购买许可证后如需帮助，可通过邮箱联系我。
+
 ## GitHub Issues
 
 [提交反馈 →](https://github.com/a1245582339/RetroWin-Release/issues)
