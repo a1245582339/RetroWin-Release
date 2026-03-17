@@ -7,19 +7,39 @@ export default defineConfig({
   icon: 'https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp',
   logo: 'https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp',
   lang: 'en',
+  head: [
+    ['meta', { name: 'google-site-verification', content: 'BPN8rF9tut1j7Cp6iXHyq2JbjmqM2fX2ruTjhYMbVEg' }],
+    ['meta', { name: 'keywords', content: 'RetroWin, Windows taskbar macOS, Windows 98 taskbar, Windows XP taskbar, macOS customization, retro UI, desktop customization, Mac taskbar app' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:image', content: 'https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp' }],
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "RetroWin",
+      "operatingSystem": "macOS",
+      "applicationCategory": "DesktopCustomization",
+      "url": "https://retrowin-site.pages.dev",
+      "description": "RetroWin brings the nostalgic Windows 98/XP/7/10 taskbar experience to your Mac. Customize your desktop with retro aesthetics and vintage functionality.",
+      "offers": {
+        "@type": "Offer",
+        "price": "8.8",
+        "priceCurrency": "CNY"
+      }
+    })],
+  ],
   globalStyles: path.join(__dirname, 'theme', 'index.css'),
   locales: [
     {
       lang: 'en',
       label: 'English',
-      title: 'RetroWin',
-      description: 'Bring the classic Windows taskbar to macOS',
+      title: 'RetroWin - Classic Windows Taskbar Experience for macOS',
+      description: 'RetroWin brings the nostalgic Windows 98/XP/7/10 taskbar experience to your Mac. Customize your desktop with retro aesthetics and vintage functionality.',
     },
     {
       lang: 'zh',
       label: '简体中文',
-      title: 'RetroWin',
-      description: '在 macOS 上重现经典 Windows 任务栏',
+      title: 'RetroWin - 在 macOS 上重现经典 Windows 任务栏',
+      description: 'RetroWin 将经典的 Windows 98/XP/7/10 任务栏体验带到 Mac，用复古美学和怀旧功能自定义你的桌面。',
     },
   ],
   themeConfig: {

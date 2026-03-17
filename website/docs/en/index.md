@@ -10,21 +10,21 @@ hero:
       link: https://github.com/a1245582339/RetroWin-Release/releases
   image:
     src: https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp
-    alt: RetroWin
+    alt: RetroWin - Classic Windows Taskbar App for macOS
 features:
-  - title: Multiple Themes
-    details: Windows 98, Windows XP, Windows 7, and Windows 10, with pixel-perfect classic UI details.
+  - title: Retro UI Themes
+    details: Pixel-perfect Windows 98, Windows XP, Windows 7, and Windows 10 classic UI recreation.
     icon: 🎨
   - title: Multi-Monitor Support
-    details: Independent taskbar on each display, freely configurable.
+    details: Independent taskbar on each display, freely configurable for any setup.
     icon: 🖥️
-  - title: Window Management
+  - title: macOS Window Management
     details: Real-time app tracking, activation, minimization, merge/expand modes, and window preview on hover.
     icon: 🪟
   - title: Taskbar Pinning
     details: Pin apps to the taskbar, drag to reorder, persistent even when closed.
     icon: 📌
-  - title: Start Menu
+  - title: Classic Start Menu
     details: Theme-specific layouts with pinnable programs, search, and quick access to system functions.
     icon: 🚀
   - title: System Tray
@@ -33,8 +33,8 @@ features:
   - title: Power Menu
     details: Sleep, Restart, Shut Down, Lock Screen, and Log Off with theme-matching dialogs.
     icon: ⚡
-  - title: Auto-Hide & Scaling
-    details: Taskbar hides to screen edge on hover. 50% to 200% scaling for any display.
+  - title: Desktop Customization
+    details: Auto-hide taskbar to screen edge. 50% to 200% scaling for any display.
     icon: 📐
   - title: Auto-Update
     details: Built-in update checking via Sparkle, with background and manual check options.
