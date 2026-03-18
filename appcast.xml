@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.25</title>
-            <sparkle:version>1.1.25</sparkle:version>
-            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
-            <pubDate>Wed, 18 Mar 2026 03:06:26 +0000</pubDate>
+            <title>Version 1.1.26</title>
+            <sparkle:version>1.1.26</sparkle:version>
+            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
+            <pubDate>Wed, 18 Mar 2026 06:15:04 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -28,9 +28,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
   <p><b>After installing</b>, reopen RetroWin and re-add it in Accessibility settings.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.1.25/RetroWin-1.1.25.zip"
-                       sparkle:edSignature="IbPqfg5LaSTgCje9HqFbUcsFIs7toxCwyo0XAha6Vg2gq3xfH/Jn+7A1FpK7+RlIvM4jJapFJfG6i2VeYUlAAg=="
-                       length="6602737"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.1.26/RetroWin-1.1.26.zip"
+                       sparkle:edSignature="JI6/+pixUwsNcCqlgvf81yk6ZAFFtpsoZTQ1UOC4T6kROp9T3432FPHUNhMtsPVWan5qHie+HhGG2kPI+Eg0Bg=="
+                       length="6618018"
                        type="application/octet-stream"/>
         </item>
     </channel>
