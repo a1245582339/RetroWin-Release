@@ -12,13 +12,9 @@ After purchasing a license, you can contact me via email for any assistance.
 
 [Submit feedback →](https://github.com/a1245582339/RetroWin-Release/issues)
 
-## Community
+## WeChat
 
-<div style="display: flex; gap: 32px; justify-content: center; flex-wrap: wrap; margin: 24px 0; align-items: flex-start;">
-  <div style="text-align: center;">
-    <p><strong>Feishu Group</strong></p>
-    <img src="https://github.com/a1245582339/picx-images-hosting/raw/master/feishu.3yez72bz49.webp" width="200" style="border-radius: 8px;" />
-  </div>
+<div style="display: flex; justify-content: center; margin: 24px 0;">
   <div style="text-align: center;">
     <p><strong>WeChat</strong></p>
     <img src="https://github.com/a1245582339/picx-images-hosting/raw/master/wechat-qrcode.et1h9a0ox.webp" width="200" style="border-radius: 8px;" />
