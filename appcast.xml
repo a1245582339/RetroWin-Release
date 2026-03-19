@@ -9,7 +9,7 @@
             <title>Version 1.2.0</title>
             <sparkle:version>1.2.0</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <pubDate>Thu, 19 Mar 2026 08:42:53 +0000</pubDate>
+            <pubDate>Thu, 19 Mar 2026 08:59:45 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -29,7 +29,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 </div>
 ]]></description>
             <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.2.0/RetroWin-1.2.0.zip"
-                       sparkle:edSignature="ZToGvdfCvnTPiV5g6wR2aEec1+e3EPfO+z0oO7iosBGM3JKuUwjBMbJZotUpCCsTZ5S40fkvK58001MowYqoDw=="
+                       sparkle:edSignature="hY+SJw/q23FkiN6KvNyNVd/B0+Fyo7nsH4g4iinHcxIweYDVSkCCsOqCR/6laOTYXqSfssSMDtw4xkdtJ2mFAA=="
                        length="6970171"
                        type="application/octet-stream"/>
         </item>
