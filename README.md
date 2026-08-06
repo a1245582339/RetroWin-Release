@@ -53,7 +53,7 @@ English | [简体中文](./README_CN.md)
 - **System Tray** — Input method indicator, volume control, clock, and custom app tray icons
 - **Power Menu** — Sleep, Restart, Shut Down, Lock Screen, and Log Off with theme-matching dialogs
 - **Notification Alerts** — Badge and banner detection with orange flashing indicators
-- **Auto-Hide** — Taskbar hides to screen edge, appears on hover
+- **Auto-Hide** — Taskbar hides to screen edge, appears on hover; menu-bar Show/Hide Taskbar as a manual fallback when fullscreen auto-hide misses
 - **Scaling** — 50% to 200% taskbar scaling for any display
 - **Auto-Update** — Built-in update checking via Sparkle, with background and manual check options
 - **Multi-Language** — English, 简体中文, 繁體中文, 日本語, 한국어, Français
@@ -114,6 +114,14 @@ A: Right-click on any running app's taskbar button and select **Pin to Taskbar**
 **Q: Can I make the taskbar auto-hide?**
 
 A: Yes. Enable **Auto-Hide** in **Settings → Taskbar**. The taskbar will slide off-screen and reappear when you move your mouse to the bottom edge.
+
+You can also manually show or hide the taskbar from the RetroWin icon in the macOS menu bar (**Show Taskbar** / **Hide Taskbar**).
+
+**Q: The taskbar doesn't auto-hide in fullscreen. What can I do?**
+
+A: Most native fullscreen apps are detected automatically, but some apps (especially Chrome, Electron, or near-fullscreen windows) may not trigger auto-hide reliably.
+
+As a workaround, click the RetroWin icon in the macOS menu bar and choose **Hide Taskbar**. The taskbar stays hidden until you choose **Show Taskbar** again — bottom-edge hover will not bring it back while it is manually hidden.
 
 **Q: Why does an app still appear on the taskbar after I closed its window?**
 

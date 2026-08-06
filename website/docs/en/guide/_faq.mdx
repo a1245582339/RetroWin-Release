@@ -34,6 +34,14 @@ Right-click on any running app's taskbar button and select **Pin to Taskbar**. P
 
 Yes. Enable **Auto-Hide** in **Settings → Taskbar**. The taskbar will slide off-screen and reappear when you move your mouse to the bottom edge.
 
+You can also manually show or hide the taskbar from the RetroWin icon in the macOS menu bar (**Show Taskbar** / **Hide Taskbar**).
+
+## The taskbar doesn't auto-hide in fullscreen. What can I do?
+
+Most native fullscreen apps are detected automatically, but some apps (especially Chrome, Electron, or near-fullscreen windows) may not trigger auto-hide reliably.
+
+As a workaround, click the RetroWin icon in the macOS menu bar and choose **Hide Taskbar**. The taskbar stays hidden until you choose **Show Taskbar** again — bottom-edge hover will not bring it back while it is manually hidden.
+
 ## Why does an app still appear on the taskbar after I closed its window?
 
 On macOS, clicking the red close button (×) only closes the window — it does not quit the app. The app continues running in the background, which is why it still shows on the taskbar. If you want the app to disappear from the taskbar after closing its window, you have two options:

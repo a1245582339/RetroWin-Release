@@ -34,7 +34,7 @@ features:
     details: Sleep, Restart, Shut Down, Lock Screen, and Log Off with theme-matching dialogs.
     icon: ⚡
   - title: Desktop Customization
-    details: Auto-hide taskbar to screen edge. 50% to 200% scaling for any display.
+    details: Auto-hide taskbar to screen edge, plus menu-bar Show/Hide as a manual fallback. 50% to 200% scaling for any display.
     icon: 📐
   - title: Auto-Update
     details: Built-in update checking via Sparkle, with background and manual check options.
