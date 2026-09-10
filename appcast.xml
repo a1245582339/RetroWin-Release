@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.8</title>
-            <sparkle:version>1.2.8</sparkle:version>
-            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
-            <pubDate>Fri, 07 Aug 2026 07:18:17 +0000</pubDate>
+            <title>Version 1.3.0</title>
+            <sparkle:version>1.3.0</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <pubDate>Thu, 10 Sep 2026 08:23:05 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -21,16 +21,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 </style>
 <div class="warning">
   <div class="warning-title">⚠️ 辅助功能权限 / Accessibility Permission</div>
-  <p><b>安装前</b>请前往 系统设置 → 隐私与安全性 → 辅助功能，选中 RetroWin，点击 <b>−</b> 移除。</p>
-  <p><b>安装后</b>重新打开 RetroWin，在辅助功能中重新添加并启用开关。</p>
+  <p>本次起使用稳定代码签名。若升级后「合并多窗口 / 标题显示」无效：系统设置 → 隐私与安全性 → 辅助功能，选中 RetroWin 点 <b>−</b> 移除后重启应用并重新允许。之后同一签名升级通常无需再授权。</p>
   <hr style="border:none;border-top:1px solid #FFECB5;margin:8px 0;">
-  <p><b>Before installing</b>, go to System Settings → Privacy & Security → Accessibility, select RetroWin, click <b>−</b> to remove it.</p>
-  <p><b>After installing</b>, reopen RetroWin and re-add it in Accessibility settings.</p>
+  <p>Builds now use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.2.8/RetroWin-1.2.8.zip"
-                       sparkle:edSignature="+WOXLXeA2A3nvM7iKzRklI2yTq4Ob3q1kzqCJDFi7jGLzG5QtiQqJym60BgtpYKrO0dqoHlQVyabxcGUQgANDQ=="
-                       length="8784113"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.3.0/RetroWin-1.3.0.zip"
+                       sparkle:edSignature="AbpbnR7AtzS9qp/Z2h4wPNAnGtrIxDtydihHD9825JIi1lUkwvsNKYv8jR5vmLOYe7lFBR3J/qTDE72NjkJ3BQ=="
+                       length="9511445"
                        type="application/octet-stream"/>
         </item>
     </channel>
