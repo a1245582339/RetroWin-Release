@@ -58,6 +58,16 @@
   </div>
 </div>
 
+### International — PayPal
+
+<div style="display: flex; justify-content: center; margin: 24px 0;">
+  <div style="text-align: center; border: 1px solid #e0e0e0; border-radius: 8px; padding: 24px 32px; min-width: 220px;">
+    <p style="margin: 0 0 12px 0; font-size: 18px; font-weight: 600; color: #0070ba;">PayPal</p>
+    <p style="margin: 0 0 8px 0; color: #666; font-size: 13px;">Send payment to</p>
+    <p style="margin: 0; font-size: 15px; word-break: break-all;"><strong>1245582339@qq.com</strong></p>
+  </div>
+</div>
+
 ## How to Activate After Purchase?
 
 1. After payment, send your **payment screenshot** to: 📧 **zhipeng.0216@qq.com**

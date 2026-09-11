@@ -57,9 +57,19 @@
   </div>
 </div>
 
+### 海外用户 — PayPal
+
+<div style="display: flex; justify-content: center; margin: 24px 0;">
+  <div style="text-align: center; border: 1px solid #e0e0e0; border-radius: 8px; padding: 24px 32px; min-width: 220px;">
+    <p style="margin: 0 0 12px 0; font-size: 18px; font-weight: 600; color: #0070ba;">PayPal</p>
+    <p style="margin: 0 0 8px 0; color: #666; font-size: 13px;">向以下账号付款</p>
+    <p style="margin: 0; font-size: 15px; word-break: break-all;"><strong>1245582339@qq.com</strong></p>
+  </div>
+</div>
+
 ## 购买后如何激活？
 
-1. 扫码支付后，将 **支付截图** 发送至邮箱：📧 **zhipeng.0216@qq.com**
+1. 付款后，将 **支付截图** 发送至邮箱：📧 **zhipeng.0216@qq.com**
 2. 我会尽快回复并发送你的 **许可证密钥**
 3. 打开 RetroWin → 设置 → 许可证，输入密钥即可激活
 
