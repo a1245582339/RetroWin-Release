@@ -3,7 +3,7 @@ pageType: home
 hero:
   name: RetroWin
   text: 在 macOS 上重现经典 Windows 任务栏
-  tagline: 一款复古风格的 macOS 任务栏应用，完美重现 Windows 98、Windows XP、Windows 7 和 Windows 10 的经典外观与体验。
+  tagline: 一款复古风格的 macOS 任务栏应用，完美重现 Windows 98、Windows XP、Windows 7、Windows 8.1、Windows 10 和 Windows 11 的经典外观与体验。
   actions:
     - theme: brand
       text: 立即下载
@@ -13,7 +13,7 @@ hero:
     alt: RetroWin - macOS 经典 Windows 任务栏应用
 features:
   - title: 复古 UI 主题
-    details: 像素级还原 Windows 98、Windows XP、Windows 7、Windows 10 经典界面。
+    details: 像素级还原 Windows 98、Windows XP、Windows 7、Windows 8.1、Windows 10、Windows 11 界面。
     icon: 🎨
   - title: 多显示器支持
     details: 每个屏幕独立任务栏，可自由配置，适配任意桌面布局。

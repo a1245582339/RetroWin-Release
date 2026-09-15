@@ -6,7 +6,7 @@
 
 **在 macOS 上重现经典 Windows 任务栏。**
 
-一款复古风格的 macOS 任务栏应用，完美重现 Windows 98、Windows XP、Windows 7 和 Windows 10 的经典外观与体验。
+一款复古风格的 macOS 任务栏应用，完美重现 Windows 98、Windows XP、Windows 7、Windows 8.1、Windows 10 和 Windows 11 的经典外观与体验。
 
 [![GitHub release](https://img.shields.io/github/v/release/a1245582339/RetroWin-Release)](https://github.com/a1245582339/RetroWin-Release/releases)
 
@@ -42,10 +42,19 @@
 
 ![10menu](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144447_291.6f17vu8gzq.webp)
 
+### Windows 11 主题
+
+<!-- TODO: 上传 Windows 11 任务栏 / 开始菜单截图 -->
+<!-- ![11bar](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
+<!-- ![11menu](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+
+居中任务栏 + Mica 模糊、Fluent 风格开始菜单（固定网格、推荐文件、分组搜索）、快捷设置飞出层（Wi-Fi / 蓝牙 / 亮度 / 音量）、月历飞出层、Win+X 右键菜单。任务栏对齐方式（居中 / 靠左）与搜索 / 任务视图按钮可在 **设置 → 主题** 中调整。
+
+
 
 ## 功能特性
 
-- **多主题切换** — Windows 98、Windows XP、Windows 7、Windows 10，像素级还原经典 UI 细节
+- **多主题切换** — Windows 98、Windows XP、Windows 7、Windows 8.1、Windows 10、Windows 11，像素级还原经典 UI 细节
 - **多显示器支持** — 每个屏幕独立任务栏，可自由配置
 - **窗口管理** — 实时追踪应用状态，支持激活、最小化、合并/展开模式，悬浮预览窗口
 - **任务栏固定** — 将应用固定到任务栏，支持拖拽排序，关闭后仍保留
@@ -101,7 +110,7 @@ A： RetroWin 非常轻量，CPU 和内存占用极低。窗口追踪每秒轮�
 
 **Q： 如何切换主题？**
 
-A： 右键点击开始按钮选择 **设置**，或在开始菜单中点击 **设置**，进入 **主题** 标签页即可在 Windows 98、Windows XP、Windows 7 和 Windows 10 之间切换。
+A： 右键点击开始按钮选择 **设置**，或在开始菜单中点击 **设置**，进入 **主题** 标签页即可在 Windows 98、Windows XP、Windows 7、Windows 8.1、Windows 10 和 Windows 11 之间切换。
 
 **Q： 支持多显示器吗？**
 

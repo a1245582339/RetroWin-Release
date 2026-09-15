@@ -3,7 +3,7 @@ pageType: home
 hero:
   name: RetroWin
   text: Classic Windows Taskbar on macOS
-  tagline: A retro-style taskbar app that recreates the look and feel of Windows 98, Windows XP, Windows 7, and Windows 10.
+  tagline: A retro-style taskbar app that recreates the look and feel of Windows 98, Windows XP, Windows 7, Windows 8.1, Windows 10, and Windows 11.
   actions:
     - theme: brand
       text: Download
@@ -13,7 +13,7 @@ hero:
     alt: RetroWin - Classic Windows Taskbar App for macOS
 features:
   - title: Retro UI Themes
-    details: Pixel-perfect Windows 98, Windows XP, Windows 7, and Windows 10 classic UI recreation.
+    details: Pixel-perfect Windows 98, Windows XP, Windows 7, Windows 8.1, Windows 10, and Windows 11 classic UI recreation.
     icon: 🎨
   - title: Multi-Monitor Support
     details: Independent taskbar on each display, freely configurable for any setup.

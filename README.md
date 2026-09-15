@@ -6,7 +6,7 @@
 
 **Bring the classic Windows taskbar to macOS.**
 
-A retro-style taskbar app for macOS that recreates the look and feel of Windows 98, Windows XP, Windows 7, and Windows 10.
+A retro-style taskbar app for macOS that recreates the look and feel of Windows 98, Windows XP, Windows 7, Windows 8.1, Windows 10, and Windows 11.
 
 [![GitHub release](https://img.shields.io/github/v/release/a1245582339/RetroWin-Release)](https://github.com/a1245582339/RetroWin-Release/releases)
 
@@ -42,10 +42,18 @@ English | [简体中文](./README_CN.md)
 
 ![10menu](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144447_291.6f17vu8gzq.webp)
 
+### Windows 11 Theme
+
+<!-- TODO: upload Windows 11 taskbar / start menu screenshots -->
+<!-- ![11bar](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
+<!-- ![11menu](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+
+Centered taskbar with Mica blur, Fluent-style Start menu (pinned grid, recommended files, grouped search), quick settings flyout (Wi-Fi / Bluetooth / brightness / volume), calendar flyout, and the Win+X right-click menu. Taskbar alignment (center / left) and the Search / Task View buttons are configurable in **Settings → Theme**.
+
 
 ## Features
 
-- **Multiple Themes** — Windows 98, Windows XP, Windows 7, and Windows 10, with pixel-perfect classic UI details
+- **Multiple Themes** — Windows 98, Windows XP, Windows 7, Windows 8.1, Windows 10, and Windows 11, with pixel-perfect classic UI details
 - **Multi-Monitor Support** — Independent taskbar on each display, freely configurable
 - **Window Management** — Real-time app tracking, activation, minimization, merge/expand modes, window preview on hover
 - **Taskbar Pinning** — Pin apps to the taskbar, drag to reorder, persistent even when closed
@@ -101,7 +109,7 @@ A: RetroWin is lightweight and uses minimal CPU and memory. Window tracking poll
 
 **Q: How do I switch themes?**
 
-A: Right-click the Start button and select **Settings**, or click **Settings** in the Start Menu. Go to the **Theme** tab to switch between Windows 98, Windows XP, Windows 7, and Windows 10.
+A: Right-click the Start button and select **Settings**, or click **Settings** in the Start Menu. Go to the **Theme** tab to switch between Windows 98, Windows XP, Windows 7, Windows 8.1, Windows 10, and Windows 11.
 
 **Q: Does it support multiple monitors?**
 

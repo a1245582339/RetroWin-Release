@@ -26,6 +26,14 @@
 
 ![RetroWin Windows 10 开始菜单 - Mac 上的现代 Windows 体验](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144447_291.6f17vu8gzq.webp)
 
+## Windows 11 主题
+
+居中 Mica 任务栏、Fluent 风格开始菜单（固定网格 / 推荐文件 / 分组搜索）、快捷设置与月历飞出层。
+
+<!-- TODO: 上传 Windows 11 截图 -->
+<!-- ![RetroWin Windows 11 风格任务栏 - macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
+<!-- ![RetroWin Windows 11 开始菜单 - Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+
 ## RetroWin 设置界面
 
 ![RetroWin 通用设置 - 显示器与自动隐藏选项](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150321_596.8s3ud2crc4.webp)

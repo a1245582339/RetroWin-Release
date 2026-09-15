@@ -26,6 +26,14 @@ See how RetroWin recreates the classic Windows taskbar experience on macOS.
 
 ![RetroWin Windows 10 start menu on Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144447_291.6f17vu8gzq.webp)
 
+## Windows 11 Theme
+
+Centered Mica taskbar, Fluent Start menu with pinned grid / recommended files / grouped search, quick settings and calendar flyouts.
+
+<!-- TODO: upload Windows 11 screenshots -->
+<!-- ![RetroWin Windows 11 style taskbar on macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
+<!-- ![RetroWin Windows 11 start menu on Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+
 ## RetroWin Settings
 
 ![RetroWin general settings - display and auto-hide options](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150321_596.8s3ud2crc4.webp)

@@ -1,9 +1,9 @@
 # RetroWin
 
-> A macOS application that brings back the classic Windows taskbar experience. RetroWin recreates the look and feel of Windows 98, Windows XP, Windows 7, and Windows 10 taskbars on macOS with pixel-perfect retro UI.
+> A macOS application that brings back the classic Windows taskbar experience. RetroWin recreates the look and feel of Windows 98, Windows XP, Windows 7, Windows 8.1, Windows 10, and Windows 11 taskbars on macOS with pixel-perfect retro UI.
 
 ## Core Features
-- Multiple retro themes: Windows 98, Windows XP, Windows 7, and Windows 10, with pixel-perfect classic UI details.
+- Multiple retro themes: Windows 98, Windows XP, Windows 7, Windows 8.1, Windows 10, and Windows 11, with pixel-perfect classic UI details.
 - Multi-monitor support: independent taskbar on each display, freely configurable.
 - Window management: real-time app tracking, activation, minimization, merge/expand modes, and window hover preview.
 - Taskbar pinning: pin apps to the taskbar, drag to reorder, persistent even when closed.
