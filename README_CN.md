@@ -32,7 +32,7 @@
 
 ### Windows 7 主题
 
-![7bar](https://github.com/a1245582339/picx-images-hosting/raw/master/98bar.lw9claato.webp)
+![7bar](https://github.com/a1245582339/picx-images-hosting/raw/master/7bar.2vf9w2v1aj.webp)
 
 ![7menu](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
@@ -44,11 +44,9 @@
 
 ### Windows 11 主题
 
-<!-- TODO: 上传 Windows 11 任务栏 / 开始菜单截图 -->
-<!-- ![11bar](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
-<!-- ![11menu](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+![11bar](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp)
 
-居中任务栏 + Mica 模糊、Fluent 风格开始菜单（固定网格、推荐文件、分组搜索）、快捷设置飞出层（Wi-Fi / 蓝牙 / 亮度 / 音量）、月历飞出层、Win+X 右键菜单。任务栏对齐方式（居中 / 靠左）与搜索 / 任务视图按钮可在 **设置 → 主题** 中调整。
+![11menu](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp)
 
 
 
@@ -70,7 +68,7 @@
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings1.8s3u33bk99.webp)
 
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings2.58hwda8uh9.webp)
-![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings.4n88qzee6m.webp)
+![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings-all.webp)
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Taskbar-settings.6f17lvxr2l.webp)
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Tray-settings.6t7ncr61xq.webp)
 

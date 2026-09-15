@@ -23,7 +23,7 @@
 
 | Feature | Free | Pro |
 | :--- | :---: | :---: |
-| Multiple Themes (Win98 / XP / 7 / 10) | ✅ | ✅ |
+| Multiple Themes (Win98 / XP / 7 / 8.1 / 10 / 11) | ✅ | ✅ |
 | Multi-Monitor Support | ✅ | ✅ |
 | Window Tracking & Activation | ✅ | ✅ |
 | Pin Apps to Taskbar | ✅ | ✅ |

@@ -16,7 +16,7 @@
 
 ## Windows 7 主题
 
-![RetroWin Windows 7 风格任务栏 - macOS 复古界面](https://github.com/a1245582339/picx-images-hosting/raw/master/98bar.lw9claato.webp)
+![RetroWin Windows 7 风格任务栏 - macOS 复古界面](https://github.com/a1245582339/picx-images-hosting/raw/master/7bar.2vf9w2v1aj.webp)
 
 ![RetroWin Windows 7 开始菜单 - Mac 桌面定制工具](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
@@ -28,11 +28,9 @@
 
 ## Windows 11 主题
 
-居中 Mica 任务栏、Fluent 风格开始菜单（固定网格 / 推荐文件 / 分组搜索）、快捷设置与月历飞出层。
+![RetroWin Windows 11 风格任务栏 - macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp)
 
-<!-- TODO: 上传 Windows 11 截图 -->
-<!-- ![RetroWin Windows 11 风格任务栏 - macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
-<!-- ![RetroWin Windows 11 开始菜单 - Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+![RetroWin Windows 11 开始菜单 - Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp)
 
 ## RetroWin 设置界面
 
@@ -40,7 +38,7 @@
 
 ![RetroWin 通用设置 - 窗口预览与更新选项](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150430_901.51eortnw4l.webp)
 
-![RetroWin 主题设置 - 切换复古 Windows 主题](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150510_120.3ns5nscu3q.webp)
+![RetroWin 主题设置 - 切换复古 Windows 主题](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings-all.webp)
 
 ![RetroWin 任务栏设置 - 应用窗口管理配置](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150516_368.1hsr20l6cn.webp)
 

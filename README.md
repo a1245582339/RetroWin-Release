@@ -32,7 +32,7 @@ English | [简体中文](./README_CN.md)
 
 ### Windows 7 Theme
 
-![7bar](https://github.com/a1245582339/picx-images-hosting/raw/master/98bar.lw9claato.webp)
+![7bar](https://github.com/a1245582339/picx-images-hosting/raw/master/7bar.2vf9w2v1aj.webp)
 
 ![7menu](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
@@ -44,11 +44,9 @@ English | [简体中文](./README_CN.md)
 
 ### Windows 11 Theme
 
-<!-- TODO: upload Windows 11 taskbar / start menu screenshots -->
-<!-- ![11bar](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
-<!-- ![11menu](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+![11bar](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp)
 
-Centered taskbar with Mica blur, Fluent-style Start menu (pinned grid, recommended files, grouped search), quick settings flyout (Wi-Fi / Bluetooth / brightness / volume), calendar flyout, and the Win+X right-click menu. Taskbar alignment (center / left) and the Search / Task View buttons are configurable in **Settings → Theme**.
+![11menu](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp)
 
 
 ## Features
@@ -69,7 +67,7 @@ Centered taskbar with Mica blur, Fluent-style Start menu (pinned grid, recommend
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings1.8s3u33bk99.webp)
 
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/General-settings2.58hwda8uh9.webp)
-![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings.4n88qzee6m.webp)
+![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings-all.webp)
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Taskbar-settings.6f17lvxr2l.webp)
 ![settings](https://github.com/a1245582339/picx-images-hosting/raw/master/Tray-settings.6t7ncr61xq.webp)
 

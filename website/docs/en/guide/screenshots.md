@@ -16,7 +16,7 @@ See how RetroWin recreates the classic Windows taskbar experience on macOS.
 
 ## Windows 7 Theme
 
-![RetroWin Windows 7 style taskbar on macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/98bar.lw9claato.webp)
+![RetroWin Windows 7 style taskbar on macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/7bar.2vf9w2v1aj.webp)
 
 ![RetroWin Windows 7 start menu on Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
@@ -28,11 +28,9 @@ See how RetroWin recreates the classic Windows taskbar experience on macOS.
 
 ## Windows 11 Theme
 
-Centered Mica taskbar, Fluent Start menu with pinned grid / recommended files / grouped search, quick settings and calendar flyouts.
+![RetroWin Windows 11 style taskbar on macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp)
 
-<!-- TODO: upload Windows 11 screenshots -->
-<!-- ![RetroWin Windows 11 style taskbar on macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp) -->
-<!-- ![RetroWin Windows 11 start menu on Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp) -->
+![RetroWin Windows 11 start menu on Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/11menu.webp)
 
 ## RetroWin Settings
 
@@ -40,7 +38,7 @@ Centered Mica taskbar, Fluent Start menu with pinned grid / recommended files / 
 
 ![RetroWin general settings - window preview and update options](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150430_901.51eortnw4l.webp)
 
-![RetroWin theme settings - switch between retro Windows themes](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150510_120.3ns5nscu3q.webp)
+![RetroWin theme settings - switch between retro Windows themes](https://github.com/a1245582339/picx-images-hosting/raw/master/Theme-settings-all.webp)
 
 ![RetroWin taskbar settings - per-app window management](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_150516_368.1hsr20l6cn.webp)
 

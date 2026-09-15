@@ -17,3 +17,7 @@ Download the original Windows wallpapers to complete your retro experience.
 ## Windows 10
 
 ![Windows 10](https://github.com/a1245582339/picx-images-hosting/raw/master/windows-10-microsoft-windows-blue-2560x1918-1554.86u6qvglxg.jpg)
+
+## Windows 11
+
+![Windows 11 - Bloom](https://github.com/a1245582339/picx-images-hosting/raw/master/windows-11-bloom.jpg)
