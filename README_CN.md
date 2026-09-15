@@ -38,7 +38,7 @@
 
 ### Windows 8.1 主题
 
-![81bar](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.webp)
+![81bar](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.eeb244f.webp)
 
 ![81menu](https://github.com/a1245582339/picx-images-hosting/raw/master/81menu.webp)
 

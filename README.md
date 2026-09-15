@@ -38,7 +38,7 @@ English | [简体中文](./README_CN.md)
 
 ### Windows 8.1 Theme
 
-![81bar](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.webp)
+![81bar](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.eeb244f.webp)
 
 ![81menu](https://github.com/a1245582339/picx-images-hosting/raw/master/81menu.webp)
 

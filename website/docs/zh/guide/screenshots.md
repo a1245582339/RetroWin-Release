@@ -22,7 +22,7 @@
 
 ## Windows 8.1 主题
 
-![RetroWin Windows 8.1 风格任务栏 - macOS 复古界面](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.webp)
+![RetroWin Windows 8.1 风格任务栏 - macOS 复古界面](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.eeb244f.webp)
 
 ![RetroWin Windows 8.1 开始屏幕 - Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/81menu.webp)
 

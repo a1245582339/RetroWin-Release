@@ -22,7 +22,7 @@ See how RetroWin recreates the classic Windows taskbar experience on macOS.
 
 ## Windows 8.1 Theme
 
-![RetroWin Windows 8.1 style taskbar on macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.webp)
+![RetroWin Windows 8.1 style taskbar on macOS](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.eeb244f.webp)
 
 ![RetroWin Windows 8.1 Start screen on Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/81menu.webp)
 
