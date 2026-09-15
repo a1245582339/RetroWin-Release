@@ -36,6 +36,12 @@ English | [简体中文](./README_CN.md)
 
 ![7menu](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
+### Windows 8.1 Theme
+
+![81bar](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.webp)
+
+![81menu](https://github.com/a1245582339/picx-images-hosting/raw/master/81menu.webp)
+
 ### Windows 10 Theme
 
 ![10bar](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144429_819.5q7ybtkxz9.webp)

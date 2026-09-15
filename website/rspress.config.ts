@@ -9,7 +9,7 @@ export default defineConfig({
   lang: 'en',
   head: [
     ['meta', { name: 'google-site-verification', content: 'BPN8rF9tut1j7Cp6iXHyq2JbjmqM2fX2ruTjhYMbVEg' }],
-    ['meta', { name: 'keywords', content: 'RetroWin, Windows taskbar macOS, Windows 98 taskbar, Windows XP taskbar, Windows 7 taskbar, Windows 10 taskbar, Windows 11 taskbar, macOS customization, retro UI, desktop customization, Mac taskbar app' }],
+    ['meta', { name: 'keywords', content: 'RetroWin, Windows taskbar macOS, Windows 98 taskbar, Windows XP taskbar, Windows 7 taskbar, Windows 8.1 Start screen, Windows 10 taskbar, Windows 11 taskbar, macOS customization, retro UI, desktop customization, Mac taskbar app' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:image', content: 'https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp' }],
     ['script', { type: 'application/ld+json' }, JSON.stringify({

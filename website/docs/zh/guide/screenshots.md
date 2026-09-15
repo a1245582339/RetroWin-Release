@@ -20,6 +20,12 @@
 
 ![RetroWin Windows 7 开始菜单 - Mac 桌面定制工具](https://github.com/a1245582339/picx-images-hosting/raw/master/7menu.5j4q6fo2mk.webp)
 
+## Windows 8.1 主题
+
+![RetroWin Windows 8.1 风格任务栏 - macOS 复古界面](https://github.com/a1245582339/picx-images-hosting/raw/master/81bar.webp)
+
+![RetroWin Windows 8.1 开始屏幕 - Mac](https://github.com/a1245582339/picx-images-hosting/raw/master/81menu.webp)
+
 ## Windows 10 主题
 
 ![RetroWin Windows 10 风格任务栏 - macOS 窗口管理](https://github.com/a1245582339/picx-images-hosting/raw/master/ScreenShot_2026-02-24_144429_819.5q7ybtkxz9.webp)

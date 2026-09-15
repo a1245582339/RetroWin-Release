@@ -14,6 +14,10 @@
 
 ![Windows 7](https://github.com/a1245582339/picx-images-hosting/raw/master/win7.szhi3w84j.jpg)
 
+## Windows 8.1
+
+![Windows 8.1](https://github.com/a1245582339/picx-images-hosting/raw/master/windows-8.1-img0.jpg)
+
 ## Windows 10
 
 ![Windows 10](https://github.com/a1245582339/picx-images-hosting/raw/master/windows-10-microsoft-windows-blue-2560x1918-1554.86u6qvglxg.jpg)
