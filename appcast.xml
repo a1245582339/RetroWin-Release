@@ -9,7 +9,7 @@
             <title>Version 1.4.1</title>
             <sparkle:version>1.4.1</sparkle:version>
             <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <pubDate>Wed, 16 Sep 2026 04:29:57 +0000</pubDate>
+            <pubDate>Wed, 16 Sep 2026 04:32:54 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -33,8 +33,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 </div>
 ]]></description>
             <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.1/RetroWin-1.4.1.zip"
-                       sparkle:edSignature="EFTXcelZpG+mjSAo07wJWFSQXvJlCoLlg14/IPjZdrdi+4gqg/ZeAxwFIxKcjp1bhuUTpK0hjN+0OXj03zvPBw=="
-                       length="10912337"
+                       sparkle:edSignature="wEvBbkJRiuevpVCOoRx7qplbkVhLpW66bbu+DEZ8soqkjsN9SPwn0Asfm8vggpUG1/1H+0MFQNhsft1wuPWCAw=="
+                       length="10912329"
                        type="application/octet-stream"/>
         </item>
     </channel>
