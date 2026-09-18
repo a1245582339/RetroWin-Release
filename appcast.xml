@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.3</title>
-            <sparkle:version>1.4.3</sparkle:version>
-            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
-            <pubDate>Fri, 18 Sep 2026 03:06:02 +0000</pubDate>
+            <title>Version 1.4.4</title>
+            <sparkle:version>1.4.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <pubDate>Fri, 18 Sep 2026 07:23:21 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -19,20 +19,21 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 .steps { padding-left: 18px; }
 .steps li { margin: 3px 0; }
 </style>
-<p><b>v1.4.3</b></p>
+<p><b>v1.4.4</b></p>
 <ul>
-  <li>Restored the Windows 7 Aero glass taskbar and button glow to match the original look (the top highlight band and diagonal glass sheen had been replaced by a hard white blob).</li>
+  <li>Theme fidelity pass across Windows 98 / XP / 7 / 8.1 / 10 / 11: taskbar chrome, Start menus, tray clock, Jump Lists, and themed window previews.</li>
+  <li>Win11 notification bell opens macOS Notification Center; the badge follows Notification Center items (and clears when you clear them).</li>
+  <li>Win8.1 Start tiles no longer overflow the screen. XP volume popover corners match the rounded border. Removed the Win11 Widgets button and the extra stacked-window dashes.</li>
+  <li>Taskbar scale in 0.25 steps; enabled displays stored by UUID; per-screen auto-hide follows the screen under the mouse.</li>
 </ul>
 <div class="warning">
-  <div class="warning-title">⚠️ 辅助功能权限 / Accessibility Permission</div>
-  <p>本次起使用稳定代码签名。若升级后「合并多窗口 / 标题显示」无效：系统设置 → 隐私与安全性 → 辅助功能，选中 RetroWin 点 <b>−</b> 移除后重启应用并重新允许。之后同一签名升级通常无需再授权。</p>
-  <hr style="border:none;border-top:1px solid #FFECB5;margin:8px 0;">
-  <p>Builds now use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
+  <div class="warning-title">⚠️ Accessibility Permission</div>
+  <p>Builds use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.3/RetroWin-1.4.3.zip"
-                       sparkle:edSignature="Se1G1ExYfJPyFc9OOun01QbePButiqAhrPkKrSbv723XHZ4aZ0weP5/ZngEjmYBfTKuwJ4ta2aYlcvfU6PtHBw=="
-                       length="10940412"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.4/RetroWin-1.4.4.zip"
+                       sparkle:edSignature="n6vabL4nrHeouHHMjvjS7qSDSHCa3+nUwYmbkGcqCXbz58jH7KLVj+2ijlmCdoOw0G8Pp+9Bo53cDZ6mUC75Bg=="
+                       length="11560107"
                        type="application/octet-stream"/>
         </item>
     </channel>
