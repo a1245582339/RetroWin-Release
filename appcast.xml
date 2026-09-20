@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.5</title>
-            <sparkle:version>1.4.5</sparkle:version>
-            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
-            <pubDate>Fri, 18 Sep 2026 08:02:42 +0000</pubDate>
+            <title>Version 1.4.6</title>
+            <sparkle:version>1.4.6</sparkle:version>
+            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+            <pubDate>Sun, 20 Sep 2026 06:20:48 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -19,19 +19,19 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 .steps { padding-left: 18px; }
 .steps li { margin: 3px 0; }
 </style>
-<p><b>v1.4.5</b></p>
+<p><b>v1.4.6</b></p>
 <ul>
-  <li>Win11 notification bell now tracks the Notification Center list: clearing notifications in the top-right panel zeros the badge.</li>
-  <li>Notification Center is polled every 2 seconds while closed, and every 0.4 seconds only while the panel is open or was just cleared.</li>
+  <li>Win11 Start button now uses the official four-pane Windows logo (rounded outer corners only).</li>
+  <li>Win11 Task View button now uses the official two-tone picture: overlapping dark and light desktop cards.</li>
 </ul>
 <div class="warning">
   <div class="warning-title">⚠️ Accessibility Permission</div>
   <p>Builds use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.5/RetroWin-1.4.5.zip"
-                       sparkle:edSignature="ua/E8P0pWdkLLtoQGNKQCQrmODOSkgMgEgi8vI6OkOkpDgSDO/qmj9H3owUsV1u9ZD1eubSY49gI8x6BDYQ1AA=="
-                       length="11572006"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.6/RetroWin-1.4.6.zip"
+                       sparkle:edSignature="ebve9v9b/N9met7CaVxYy+i4d/aDm7fC8zn0ZBF8cGLOdsKkR56Hp5vVTsJc9XWmHJj4Khn04osDnpn7k7aRCw=="
+                       length="11562289"
                        type="application/octet-stream"/>
         </item>
     </channel>
