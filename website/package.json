@@ -2,14 +2,15 @@
   "name": "retrowin-website",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "rspress dev",
-    "build": "rspress build",
+    "build": "rspress build && mkdir -p doc_build/functions && cp functions/_middleware.js doc_build/functions/",
     "preview": "rspress preview",
-    "deploy": "rspress build && wrangler pages deploy doc_build --project-name retrowin-site --commit-dirty=true"
+    "deploy": "npm run build && wrangler pages deploy doc_build --project-name retrowin-site --commit-dirty=true"
   },
   "devDependencies": {
-    "@rspress/core": "^2.0.3",
+    "@rspress/core": "^2.0.22",
     "playwright": "^1.58.2"
   }
 }

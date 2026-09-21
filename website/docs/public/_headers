@@ -1,0 +1,15 @@
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+  Vary: Accept
+
+/llms.txt
+  Content-Type: text/markdown; charset=utf-8
+
+/llms-full.txt
+  Content-Type: text/markdown; charset=utf-8
+
+/zh/llms.txt
+  Content-Type: text/markdown; charset=utf-8
+
+/zh/llms-full.txt
+  Content-Type: text/markdown; charset=utf-8
