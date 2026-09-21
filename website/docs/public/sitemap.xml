@@ -1,73 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://retrowin-site.pages.dev/en/</loc>
+    <loc>https://retrowin-site.pages.dev/</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/" />
   </url>
   <url>
     <loc>https://retrowin-site.pages.dev/zh/</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/" />
   </url>
   <url>
-    <loc>https://retrowin-site.pages.dev/en/guide/screenshots</loc>
+    <loc>https://retrowin-site.pages.dev/guide/screenshots</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/screenshots" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/screenshots" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/screenshots" />
+    <image:image>
+      <image:loc>https://github.com/a1245582339/picx-images-hosting/raw/master/98bar.lw9claato.webp</image:loc>
+      <image:title>RetroWin Windows 98 style taskbar on macOS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://github.com/a1245582339/picx-images-hosting/raw/master/xpbar.99tvrocxu7.webp</image:loc>
+      <image:title>RetroWin Windows XP style taskbar on macOS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://github.com/a1245582339/picx-images-hosting/raw/master/7bar.2vf9w2v1aj.webp</image:loc>
+      <image:title>RetroWin Windows 7 style taskbar on macOS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://github.com/a1245582339/picx-images-hosting/raw/master/11bar.webp</image:loc>
+      <image:title>RetroWin Windows 11 style taskbar on macOS</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://retrowin-site.pages.dev/zh/guide/screenshots</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/screenshots" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/screenshots" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/screenshots" />
   </url>
   <url>
-    <loc>https://retrowin-site.pages.dev/en/guide/wallpapers</loc>
+    <loc>https://retrowin-site.pages.dev/guide/wallpapers</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/wallpapers" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/wallpapers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/wallpapers" />
   </url>
   <url>
     <loc>https://retrowin-site.pages.dev/zh/guide/wallpapers</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/wallpapers" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/wallpapers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/wallpapers" />
   </url>
   <url>
-    <loc>https://retrowin-site.pages.dev/en/guide/installation</loc>
+    <loc>https://retrowin-site.pages.dev/guide/installation</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/installation" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/installation" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/installation" />
   </url>
   <url>
     <loc>https://retrowin-site.pages.dev/zh/guide/installation</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/installation" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/installation" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/installation" />
   </url>
   <url>
-    <loc>https://retrowin-site.pages.dev/en/guide/pricing</loc>
+    <loc>https://retrowin-site.pages.dev/guide/pricing</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/pricing" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/pricing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/pricing" />
   </url>
   <url>
     <loc>https://retrowin-site.pages.dev/zh/guide/pricing</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/pricing" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/pricing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/pricing" />
   </url>
   <url>
-    <loc>https://retrowin-site.pages.dev/en/guide/faq</loc>
+    <loc>https://retrowin-site.pages.dev/guide/faq</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/faq" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/faq" />
   </url>
   <url>
     <loc>https://retrowin-site.pages.dev/zh/guide/faq</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/faq" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/faq" />
   </url>
   <url>
-    <loc>https://retrowin-site.pages.dev/en/guide/contact</loc>
+    <loc>https://retrowin-site.pages.dev/guide/contact</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/contact" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/contact" />
   </url>
   <url>
     <loc>https://retrowin-site.pages.dev/zh/guide/contact</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/contact" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/contact" />
   </url>
 </urlset>

@@ -1,6 +1,11 @@
+---
+title: Contact RetroWin Support
+description: Contact RetroWin by email, GitHub Issues, or WeChat for license help, feature requests, and macOS taskbar support.
+---
+
 # Contact
 
-If you have any questions, suggestions, or need support, feel free to reach out:
+If you have any questions, suggestions, or need support with RetroWin on macOS, feel free to reach out:
 
 ## Email
 

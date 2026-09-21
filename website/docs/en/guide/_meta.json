@@ -16,6 +16,11 @@
   },
   {
     "type": "file",
+    "name": "pricing",
+    "label": "Pricing"
+  },
+  {
+    "type": "file",
     "name": "faq",
     "label": "FAQ"
   },

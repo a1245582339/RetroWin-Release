@@ -1,5 +1,7 @@
 ---
 pageType: home
+titleSuffix: Classic Windows Taskbar for macOS
+description: Bring the Windows 98, XP, 7, 8.1, 10, and 11 taskbar to your Mac. Retro themes, Start menu, system tray, and multi-monitor support.
 hero:
   name: RetroWin
   text: Classic Windows Taskbar on macOS

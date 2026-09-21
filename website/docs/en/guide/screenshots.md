@@ -1,3 +1,8 @@
+---
+title: RetroWin Screenshots – Windows 98/XP/7/10/11 Taskbar on Mac
+description: Screenshots of RetroWin on macOS, including Windows 98, XP, 7, 8.1, 10, and 11 taskbar themes, Start menus, and settings.
+---
+
 # RetroWin Screenshots
 
 See how RetroWin recreates the classic Windows taskbar experience on macOS.

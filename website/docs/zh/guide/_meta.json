@@ -16,6 +16,11 @@
   },
   {
     "type": "file",
+    "name": "pricing",
+    "label": "购买许可证"
+  },
+  {
+    "type": "file",
     "name": "faq",
     "label": "常见问题"
   },

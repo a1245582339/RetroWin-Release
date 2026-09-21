@@ -1,3 +1,8 @@
+---
+title: RetroWin Pricing – Free vs Pro License
+description: Compare RetroWin Free and Pro. Unlock auto-hide, scaling, window preview, and more for a one-time ¥8.8 license on macOS.
+---
+
 # Purchase License
 
 <div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; margin: 40px 0;">
@@ -79,4 +84,4 @@
 If you have any questions, feel free to reach out:
 
 - 📧 Email: **zhipeng.0216@qq.com**
-- 💬 [Contact Us](/en/guide/contact)
+- 💬 [Contact Us](/guide/contact)

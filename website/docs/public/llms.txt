@@ -25,10 +25,12 @@
 
 ## Links
 - Website: https://retrowin-site.pages.dev
+- Chinese site: https://retrowin-site.pages.dev/zh/
 - Download: https://github.com/a1245582339/RetroWin-Release/releases
 - GitHub: https://github.com/a1245582339/RetroWin-Release
-- Screenshots: https://retrowin-site.pages.dev/en/guide/screenshots
-- Installation: https://retrowin-site.pages.dev/en/guide/installation
-- FAQ: https://retrowin-site.pages.dev/en/guide/faq
-- Pricing: https://retrowin-site.pages.dev/en/guide/pricing
-- Contact: https://retrowin-site.pages.dev/en/guide/contact
+- Screenshots: https://retrowin-site.pages.dev/guide/screenshots
+- Wallpapers: https://retrowin-site.pages.dev/guide/wallpapers
+- Installation: https://retrowin-site.pages.dev/guide/installation
+- Pricing: https://retrowin-site.pages.dev/guide/pricing
+- FAQ: https://retrowin-site.pages.dev/guide/faq
+- Contact: https://retrowin-site.pages.dev/guide/contact

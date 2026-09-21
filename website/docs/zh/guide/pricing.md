@@ -1,3 +1,8 @@
+---
+title: RetroWin 价格 – 免费版与 Pro 许可证
+description: 对比 RetroWin 免费版与 Pro。一次购买 ¥8.8，解锁自动隐藏、缩放、窗口预览等高级功能。
+---
+
 # 购买许可证
 
 <div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; margin: 40px 0;">

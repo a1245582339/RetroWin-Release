@@ -1,29 +1,40 @@
-# OpenAI crawlers
+User-agent: *
+Allow: /
+
 User-agent: GPTBot
 Allow: /
+
 User-agent: OAI-SearchBot
 Allow: /
 
-# Perplexity
+User-agent: ChatGPT-User
+Allow: /
+
 User-agent: PerplexityBot
 Allow: /
 
-# Anthropic (Claude)
 User-agent: ClaudeBot
 Allow: /
+
 User-agent: anthropic-ai
 Allow: /
 
-# Google
+User-agent: Claude-SearchBot
+Allow: /
+
 User-agent: Googlebot
 Allow: /
 
-# Bing
+User-agent: Google-Extended
+Allow: /
+
 User-agent: Bingbot
 Allow: /
 
-# All other bots
-User-agent: *
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
 Allow: /
 
 Sitemap: https://retrowin-site.pages.dev/sitemap.xml
