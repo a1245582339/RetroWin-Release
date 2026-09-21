@@ -51,6 +51,16 @@ export async function onRequest(context) {
     return next();
   }
 
+  if (
+    pathname === '/sitemap.xml' ||
+    pathname === '/robots.txt' ||
+    pathname === '/_headers' ||
+    pathname === '/_redirects' ||
+    pathname === '/_routes.json'
+  ) {
+    return next();
+  }
+
   if (!wantsMarkdown(accept)) {
     return next();
   }
