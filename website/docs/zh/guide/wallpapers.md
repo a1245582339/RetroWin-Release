@@ -1,6 +1,6 @@
 ---
 title: Windows 经典壁纸下载 | RetroWin
-description: 下载 Windows 98、XP、7、8.1、10、11 原版壁纸，搭配 RetroWin 任务栏，在 Mac 上还原完整复古桌面。
+description: 免费下载 Windows 98 白云、XP Bliss、Win7、Win8.1、Win10、Win11 原版壁纸，搭配 RetroWin 任务栏，在 Mac 上还原复古桌面。
 ---
 
 # 经典壁纸

@@ -1,7 +1,7 @@
 ---
 pageType: home
 titleSuffix: 在 macOS 上重现经典 Windows 任务栏
-description: 在 Mac 上使用 Windows 98、XP、7、8.1、10、11 风格任务栏。支持复古主题、开始菜单、系统托盘和多显示器。
+description: RetroWin 是一款 Mac 任务栏应用，在 macOS 上还原 Windows 98、XP、7、8.1、10、11 经典任务栏、开始菜单和系统托盘，支持多显示器与桌面美化。
 hero:
   name: RetroWin
   text: 在 macOS 上重现经典 Windows 任务栏

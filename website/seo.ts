@@ -8,7 +8,31 @@ export const EN_KEYWORDS =
   'RetroWin, Windows taskbar macOS, Windows 98 taskbar Mac, Windows XP taskbar Mac, Windows 7 taskbar, Windows 10 taskbar Mac, Windows 11 taskbar Mac, macOS customization, retro UI, Mac start menu, desktop customization';
 
 export const ZH_KEYWORDS =
-  'RetroWin, macOS 任务栏, Windows 任务栏 Mac, Windows 98 任务栏, Windows XP 任务栏, Windows 7 任务栏, Windows 10 任务栏, Windows 11 任务栏, macOS 桌面美化, 复古 UI, Mac 开始菜单';
+  'RetroWin, Mac 任务栏, macOS 任务栏, Windows 任务栏 Mac, Mac 开始菜单, 复古任务栏, macOS 桌面美化, Windows 98 任务栏, Windows XP 任务栏, Windows 7 任务栏, Windows 10 任务栏, Windows 11 任务栏';
+
+const ZH_PAGE_KEYWORDS: Record<string, string> = {
+  '/zh/': ZH_KEYWORDS,
+  '/zh/guide/': 'RetroWin 指南, Mac 任务栏教程, RetroWin 安装, RetroWin 截图, RetroWin 价格',
+  '/zh/guide/screenshots':
+    'RetroWin 截图, Mac Windows 任务栏截图, Windows 98 任务栏 Mac, Windows XP 开始菜单 Mac, Windows 11 任务栏 macOS',
+  '/zh/guide/wallpapers':
+    'Windows 经典壁纸, Windows XP 壁纸, Bliss 壁纸, Windows 98 白云壁纸, Mac 复古桌面壁纸',
+  '/zh/guide/installation':
+    'RetroWin 下载, RetroWin 安装, Mac 任务栏安装, DMG 安装, Gatekeeper 仍要打开, macOS 辅助功能',
+  '/zh/guide/pricing':
+    'RetroWin 价格, RetroWin 许可证, RetroWin Pro, 免费任务栏 Mac, 微信支付, 支付宝',
+  '/zh/guide/faq':
+    'RetroWin 常见问题, Mac 任务栏无法打开, 辅助功能权限, 任务栏自动隐藏, 多显示器任务栏',
+  '/zh/guide/contact': 'RetroWin 联系, RetroWin 客服, 许可证激活, 微信客服, Mac 任务栏支持',
+};
+
+export function keywordsForRoute(routePath: string): string {
+  const path = normalizeRoutePath(routePath);
+  if (isZhRoute(path)) {
+    return ZH_PAGE_KEYWORDS[path] ?? ZH_KEYWORDS;
+  }
+  return EN_KEYWORDS;
+}
 
 export function normalizeRoutePath(routePath: string): string {
   if (!routePath || routePath === '/' || routePath === '/index') {

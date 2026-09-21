@@ -1,6 +1,6 @@
 ---
 title: 安装 RetroWin – macOS 下载与设置指南
-description: 下载 RetroWin DMG，在 macOS 15 及以上安装，并处理 Gatekeeper 提示，即可在 Mac 上使用 Windows 风格任务栏。
+description: 下载 RetroWin DMG，在 macOS 15 及以上安装 Mac 任务栏。处理「仍要打开」与辅助功能权限后，即可使用 Windows 风格开始菜单和系统托盘。
 ---
 
 # 安装 RetroWin

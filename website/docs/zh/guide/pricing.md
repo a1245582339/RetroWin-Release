@@ -1,9 +1,11 @@
 ---
 title: RetroWin 价格 – 免费版与 Pro 许可证
-description: 对比 RetroWin 免费版与 Pro。一次购买 ¥8.8，解锁自动隐藏、缩放、窗口预览等高级功能。
+description: RetroWin 免费版可永久使用核心任务栏功能；Pro 版 ¥8.8 一次性买断，解锁自动隐藏、缩放、窗口预览，支持微信、支付宝和 PayPal。
 ---
 
 # 购买许可证
+
+RetroWin 提供免费版和 Pro 版。免费版即可在 Mac 上使用经典 Windows 任务栏；Pro 版一次购买永久使用，解锁自动隐藏、缩放和窗口预览等高级功能。
 
 <div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; margin: 40px 0;">
   <div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 32px 28px; width: 280px; text-align: center; background: var(--rp-c-bg); position: relative;">

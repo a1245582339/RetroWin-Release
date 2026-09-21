@@ -37,4 +37,16 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
 Sitemap: https://retrowin-site.pages.dev/sitemap.xml

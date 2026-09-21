@@ -1,6 +1,6 @@
 ---
 title: RetroWin 截图 – Mac 上的 Windows 98/XP/7/10/11 任务栏
-description: RetroWin 在 macOS 上的界面截图，涵盖 Windows 98、XP、7、8.1、10、11 任务栏主题、开始菜单和设置页。
+description: 查看 RetroWin 在 Mac 上的任务栏截图，涵盖 Windows 98、XP、7、8.1、10、11 主题、开始菜单和设置页，了解 macOS 桌面美化效果。
 ---
 
 # RetroWin 截图展示

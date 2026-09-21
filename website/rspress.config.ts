@@ -10,8 +10,7 @@ import {
   toEnPath,
   toZhPath,
   websiteJsonLd,
-  ZH_KEYWORDS,
-  EN_KEYWORDS,
+  keywordsForRoute,
 } from './seo';
 
 const SITE_ORIGIN = 'https://retrowin-site.pages.dev';
@@ -96,7 +95,11 @@ ${sectionContent}
     route => ['link', { rel: 'alternate', hreflang: 'en', href: absoluteUrl(toEnPath(route.routePath)) }],
     route => ['link', { rel: 'alternate', hreflang: 'zh-CN', href: absoluteUrl(toZhPath(route.routePath)) }],
     route => ['link', { rel: 'alternate', hreflang: 'x-default', href: absoluteUrl(toEnPath(route.routePath)) }],
-    route => ['meta', { name: 'keywords', content: isZhRoute(route.routePath) ? ZH_KEYWORDS : EN_KEYWORDS }],
+    route => ['meta', { name: 'keywords', content: keywordsForRoute(route.routePath) }],
+    route =>
+      isZhRoute(route.routePath)
+        ? ['meta', { name: 'applicable-device', content: 'pc,mobile' }]
+        : undefined,
     softwareJsonLd,
     websiteJsonLd,
     route => faqJsonLd(route.routePath),

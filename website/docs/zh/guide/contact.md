@@ -1,6 +1,6 @@
 ---
-title: 联系 RetroWin
-description: 通过邮箱、GitHub Issues 或微信联系 RetroWin，获取许可证帮助、功能建议和 macOS 任务栏支持。
+title: 联系 RetroWin – 许可证与技术支持
+description: 通过邮箱、GitHub Issues 或微信联系 RetroWin 客服，获取 Mac 任务栏许可证激活、功能建议和技术支持。
 ---
 
 # 联系我们

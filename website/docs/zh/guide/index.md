@@ -1,6 +1,6 @@
 ---
 title: RetroWin 指南 – 安装、主题、价格与常见问题
-description: 浏览 RetroWin 文档，包括截图、经典壁纸、安装、价格、常见问题和 macOS 支持。
+description: RetroWin 中文指南：查看 Mac 任务栏截图、下载经典壁纸、安装 DMG、对比免费版与 Pro 价格，并查阅常见问题与客服联系方式。
 ---
 
 # RetroWin 指南
