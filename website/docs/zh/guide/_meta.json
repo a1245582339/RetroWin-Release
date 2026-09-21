@@ -1,6 +1,11 @@
 [
   {
     "type": "file",
+    "name": "index",
+    "label": "指南首页"
+  },
+  {
+    "type": "file",
     "name": "screenshots",
     "label": "截图展示"
   },

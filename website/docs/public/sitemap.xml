@@ -21,6 +21,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/" />
   </url>
   <url>
+    <loc>https://retrowin-site.pages.dev/guide/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/" />
+  </url>
+  <url>
+    <loc>https://retrowin-site.pages.dev/zh/guide/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://retrowin-site.pages.dev/guide/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://retrowin-site.pages.dev/zh/guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://retrowin-site.pages.dev/guide/" />
+  </url>
+  <url>
     <loc>https://retrowin-site.pages.dev/guide/screenshots</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>

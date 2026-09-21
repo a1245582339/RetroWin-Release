@@ -1,3 +1,24 @@
+# Old default-language prefix. One hop to the canonical clean URL.
 /en / 301
 /en/ / 301
+/en/index / 301
+/en/index.html / 301
+/en/guide /guide/ 301
+/en/guide/ /guide/ 301
+/en/guide/screenshots /guide/screenshots 301
+/en/guide/screenshots.html /guide/screenshots 301
+/en/guide/wallpapers /guide/wallpapers 301
+/en/guide/wallpapers.html /guide/wallpapers 301
+/en/guide/installation /guide/installation 301
+/en/guide/installation.html /guide/installation 301
+/en/guide/pricing /guide/pricing 301
+/en/guide/pricing.html /guide/pricing 301
+/en/guide/faq /guide/faq 301
+/en/guide/faq.html /guide/faq 301
+/en/guide/contact /guide/contact 301
+/en/guide/contact.html /guide/contact 301
 /en/* /:splat 301
+
+# Section roots without a trailing slash
+/guide /guide/ 301
+/zh/guide /zh/guide/ 301
