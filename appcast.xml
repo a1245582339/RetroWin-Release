@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.10</title>
-            <sparkle:version>1.4.10</sparkle:version>
-            <sparkle:shortVersionString>1.4.10</sparkle:shortVersionString>
-            <pubDate>Sun, 20 Sep 2026 07:27:34 +0000</pubDate>
+            <title>Version 1.4.11</title>
+            <sparkle:version>1.4.11</sparkle:version>
+            <sparkle:shortVersionString>1.4.11</sparkle:shortVersionString>
+            <pubDate>Tue, 22 Sep 2026 07:22:37 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -19,18 +19,18 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 .steps { padding-left: 18px; }
 .steps li { margin: 3px 0; }
 </style>
-<p><b>v1.4.10</b></p>
+<p><b>v1.4.11</b></p>
 <ul>
-  <li>Win11 jump lists, window previews, and tray flyouts now follow the mouse so they no longer open over the clock.</li>
+  <li>Windows 98 and XP right-click menus now sit flush on the taskbar instead of floating above it.</li>
 </ul>
 <div class="warning">
   <div class="warning-title">⚠️ Accessibility Permission</div>
   <p>Builds use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.10/RetroWin-1.4.10.zip"
-                       sparkle:edSignature="dDkoXLw6aEfcpusNAzM5L+/PCQVxobRYzZlSHiRaw9VQtQDyXxt/w2hwNc7P64vHn5fEDoiny2vED9+ylbsiAw=="
-                       length="11563024"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.11/RetroWin-1.4.11.zip"
+                       sparkle:edSignature="ejhmrU4ZkafqYuJG0Sdn8qQ22aBhjHeiSGV/GlfeNeMcDhbgzlFI8UrmCdAphGwzaBk2qu89WfJF1A1LNnv5BA=="
+                       length="11568729"
                        type="application/octet-stream"/>
         </item>
     </channel>
