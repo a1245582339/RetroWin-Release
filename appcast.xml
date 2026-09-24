@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.11</title>
-            <sparkle:version>1.4.11</sparkle:version>
-            <sparkle:shortVersionString>1.4.11</sparkle:shortVersionString>
-            <pubDate>Tue, 22 Sep 2026 07:22:37 +0000</pubDate>
+            <title>Version 1.4.12</title>
+            <sparkle:version>1.4.12</sparkle:version>
+            <sparkle:shortVersionString>1.4.12</sparkle:shortVersionString>
+            <pubDate>Thu, 24 Sep 2026 07:39:52 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -19,18 +19,18 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 .steps { padding-left: 18px; }
 .steps li { margin: 3px 0; }
 </style>
-<p><b>v1.4.11</b></p>
+<p><b>v1.4.12</b></p>
 <ul>
-  <li>Windows 98 and XP right-click menus now sit flush on the taskbar instead of floating above it.</li>
+  <li>The Windows 7 Start button now sits inside the taskbar, with its top edge flush with the bar.</li>
 </ul>
 <div class="warning">
   <div class="warning-title">⚠️ Accessibility Permission</div>
   <p>Builds use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.11/RetroWin-1.4.11.zip"
-                       sparkle:edSignature="ejhmrU4ZkafqYuJG0Sdn8qQ22aBhjHeiSGV/GlfeNeMcDhbgzlFI8UrmCdAphGwzaBk2qu89WfJF1A1LNnv5BA=="
-                       length="11568729"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.12/RetroWin-1.4.12.zip"
+                       sparkle:edSignature="Ae2wtkFq2b5J5VqafvD7/+G6Pt50RL34ooSQQ4TavX4Dhj43+jTrxppdGiL7Oc3rV9gfc3MUm76P11RtTQo6AQ=="
+                       length="11567857"
                        type="application/octet-stream"/>
         </item>
     </channel>
