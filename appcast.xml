@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.15</title>
-            <sparkle:version>1.4.15</sparkle:version>
-            <sparkle:shortVersionString>1.4.15</sparkle:shortVersionString>
-            <pubDate>Wed, 30 Sep 2026 05:37:04 +0000</pubDate>
+            <title>Version 1.4.16</title>
+            <sparkle:version>1.4.16</sparkle:version>
+            <sparkle:shortVersionString>1.4.16</sparkle:shortVersionString>
+            <pubDate>Wed, 30 Sep 2026 08:29:47 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -19,19 +19,18 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 .steps { padding-left: 18px; }
 .steps li { margin: 3px 0; }
 </style>
-<p><b>v1.4.15</b></p>
+<p><b>v1.4.16</b></p>
 <ul>
-  <li>Windows 11 taskbar buttons now use a raised backplate, with a light top edge and a soft shadow, instead of a flat highlight.</li>
-  <li>Apps that need attention pulse a pale red backplate and keep a short red pill until you switch to them.</li>
+  <li>Right-click menus from WeChat and other apps stay visible when they extend over the taskbar.</li>
 </ul>
 <div class="warning">
   <div class="warning-title">⚠️ Accessibility Permission</div>
   <p>Builds use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.15/RetroWin-1.4.15.zip"
-                       sparkle:edSignature="VcpxM5tZCmYyWllZmWw+Ilz6fCE/pgt6p4Xn6EGeXjUdKgeWmSLfZypntzkqbORUGOCIoB1bPWLH6s5ogmQkDA=="
-                       length="11734671"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.16/RetroWin-1.4.16.zip"
+                       sparkle:edSignature="SNfJ6iMBIttH2mmFAhpWI7CxwPqNYVyr/1aH7g6ErFEvK95BQBn33SUYVno1Q18iPjJeRIQ27NhYWSQc4t4FAg=="
+                       length="11792494"
                        type="application/octet-stream"/>
         </item>
     </channel>
