@@ -6,10 +6,10 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.17</title>
-            <sparkle:version>1.4.17</sparkle:version>
-            <sparkle:shortVersionString>1.4.17</sparkle:shortVersionString>
-            <pubDate>Thu, 08 Oct 2026 01:16:02 +0000</pubDate>
+            <title>Version 1.4.18</title>
+            <sparkle:version>1.4.18</sparkle:version>
+            <sparkle:shortVersionString>1.4.18</sparkle:shortVersionString>
+            <pubDate>Mon, 12 Oct 2026 03:06:50 +0000</pubDate>
             <description><![CDATA[
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; padding: 8px; }
@@ -19,19 +19,19 @@ body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13
 .steps { padding-left: 18px; }
 .steps li { margin: 3px 0; }
 </style>
-<p><b>v1.4.17</b></p>
+<p><b>v1.4.18</b></p>
 <ul>
-  <li>XP All Programs submenu fills the menu width instead of leaving a blank strip.</li>
-  <li>Taskbar right-click menus stay on the taskbar after recent documents load, including WPS.</li>
+  <li>In-app website links now open https://cuier.de5.net.</li>
+  <li>License activation tries cuier.de5.net first, then the previous servers.</li>
 </ul>
 <div class="warning">
   <div class="warning-title">⚠️ Accessibility Permission</div>
   <p>Builds use a stable code signature. If merge-windows / title display stop working after this update: System Settings → Privacy &amp; Security → Accessibility → select RetroWin → <b>−</b>, relaunch, and Allow again. Later updates with the same signature should keep the grant.</p>
 </div>
 ]]></description>
-            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.17/RetroWin-1.4.17.zip"
-                       sparkle:edSignature="03Luamgu3eq8vkzhqWuG223Gln/5y7/7Z4Z6Yj19YoYBGVfBygKSB39KqVzsZdhsCNcJoIu17s2a7CyIIV5ABA=="
-                       length="11794879"
+            <enclosure url="https://github.com/a1245582339/RetroWin-Release/releases/download/v1.4.18/RetroWin-1.4.18.zip"
+                       sparkle:edSignature="F/dCTGdg/FL4/rSFlpxY8rNrrVuj+K9wjgirTrdtjEb8toMMV0bUDPNniWOkesqWoRjHe7vtqhFillUFYRZCAQ=="
+                       length="11794061"
                        type="application/octet-stream"/>
         </item>
     </channel>
