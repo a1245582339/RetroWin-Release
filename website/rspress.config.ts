@@ -3,6 +3,7 @@ import path from 'path';
 import {
   OG_IMAGE,
   SITE_ICON,
+  SITE_URL,
   absoluteUrl,
   faqJsonLd,
   isZhRoute,
@@ -13,7 +14,7 @@ import {
   keywordsForRoute,
 } from './seo';
 
-const SITE_ORIGIN = 'https://retrowin-site.pages.dev';
+const SITE_ORIGIN = SITE_URL;
 
 export default defineConfig({
   root: 'docs',
