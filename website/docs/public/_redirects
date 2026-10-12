@@ -1,7 +1,3 @@
-# Previous hosts now live on the canonical domain.
-https://cuier.de5.net/* https://retrowin.de5.net/:splat 301
-https://retrowin-site.pages.dev/* https://retrowin.de5.net/:splat 301
-
 # Old default-language prefix. One hop to the canonical clean URL.
 /en / 301
 /en/ / 301
