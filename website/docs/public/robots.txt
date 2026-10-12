@@ -49,4 +49,4 @@ Allow: /
 User-agent: 360Spider
 Allow: /
 
-Sitemap: https://cuier.de5.net/sitemap.xml
+Sitemap: https://retrowin.de5.net/sitemap.xml

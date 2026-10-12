@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://cuier.de5.net';
+export const SITE_URL = 'https://retrowin.de5.net';
 export const SITE_ICON =
   'https://github.com/a1245582339/picx-images-hosting/raw/master/icon1024.lw9clfrxq.webp';
 export const OG_IMAGE =

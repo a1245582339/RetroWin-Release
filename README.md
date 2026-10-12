@@ -144,16 +144,12 @@ A: On macOS, clicking the red close button (×) only closes the window — it do
 
 **Q: Why do I need to re-grant Accessibility permission after every update?**
 
-A: Older builds used an ad-hoc signature, so macOS treated each update as a new app and Accessibility had to be re-granted. Current releases are signed with a stable self-signed certificate, so **one grant should survive upgrades**.
-
-If Merge Windows / Title Display still fail after an update (System Settings may still show RetroWin as enabled):
+A: macOS ties Accessibility permission to the app's code signature. Since RetroWin is not signed with an Apple Developer certificate, each update produces a different signature, and macOS treats it as a new app. To fix this after updating:
 
 1. Go to **System Settings → Privacy & Security → Accessibility**
-2. Select RetroWin, click **"−"** to remove it
+2. Select RetroWin in the list, click the **"−"** button to remove it
 3. Relaunch RetroWin
-4. Click **Allow** when prompted
-
-You should only need this again if the signing certificate is ever replaced.
+4. A system prompt will appear — click **Allow** to re-grant permission
 
 **Q: Which macOS versions are supported?**
 
