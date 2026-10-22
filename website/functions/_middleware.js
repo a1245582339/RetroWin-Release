@@ -44,7 +44,7 @@ export async function onRequest(context) {
   const url = new URL(request.url);
   const { pathname } = url;
 
-  if (url.hostname === 'cuier.de5.net' || url.hostname === 'retrowin-site.pages.dev') {
+  if (url.hostname === 'retrowin-site.pages.dev') {
     url.hostname = 'retrowin.de5.net';
     return Response.redirect(url.toString(), 301);
   }
